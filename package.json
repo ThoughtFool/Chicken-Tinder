@@ -1,0 +1,24 @@
+{
+  "name": "chicken-tinder",
+  "version": "1.0.0",
+  "description": "a friend-finder based on individuals shared preferences concerning the various ways that chicken can be prepared",
+  "main": "api-routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThoughtFool/Chicken-Tinder.git"
+  },
+  "author": "ThoughtFool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThoughtFool/Chicken-Tinder/issues"
+  },
+  "homepage": "https://github.com/ThoughtFool/Chicken-Tinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
